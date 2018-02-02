@@ -9,7 +9,7 @@ buttons:
 ---
 
 # Welcome to Kaneka
-#### Crazy **Fast**
+#### Ping **Fast**
 #### Ridiculously **Easy**
 #### Amazingly **Powerful**
 
