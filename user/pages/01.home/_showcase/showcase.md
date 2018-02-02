@@ -9,7 +9,7 @@ buttons:
 ---
 
 # Welcome to Kaneka
-#### Uber **Fast**
+#### Ping **Fast**
 #### Ridiculously **Easy**
 #### Amazingly **Powerful**
 
