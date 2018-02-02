@@ -13,3 +13,5 @@ ehthumbs.db
 Icon?
 Thumbs.db
 *.swp
+css-compiled
+launch_site.sh

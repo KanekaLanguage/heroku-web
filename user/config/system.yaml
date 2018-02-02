@@ -2,7 +2,6 @@ home:
   alias: '/home'
 
 pages:
-  # theme: antimatter
   theme: kaneka
   markdown_extra: false
   process:
