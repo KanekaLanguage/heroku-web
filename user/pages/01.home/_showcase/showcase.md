@@ -9,7 +9,9 @@ buttons:
 ---
 
 # Welcome to Kaneka
-## Crazy **Fast**, Ridiculously **Easy**, Amazingly **Powerful**...
+#### Crazy **Fast**
+#### Ridiculously **Easy**
+#### Amazingly **Powerful**
 
 
 
