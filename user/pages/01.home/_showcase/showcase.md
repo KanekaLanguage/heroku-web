@@ -5,9 +5,10 @@ buttons:
     - text: Read the Documentation
       url: http://learn.getgrav.org
       primary: true
+
 ---
 
-# Welcome to Grav
+# Welcome to Kaneka
 ## Crazy **Fast**, Ridiculously **Easy**, Amazingly **Powerful**...
 
 
