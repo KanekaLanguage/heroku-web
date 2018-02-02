@@ -1,0 +1,11 @@
+email: nathan@haveli.io
+fullname: 'Nathan Argetsinger'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$X2rbjgNRVcVKxlfq7zQfru2ysTw4aG8LjvtQOPYX4J/zP9RLzq4EK
