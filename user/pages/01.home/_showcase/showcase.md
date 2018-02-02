@@ -9,6 +9,7 @@ buttons:
 ---
 
 # Welcome to Kaneka
+A language for mechanical expression.
 #### One last time **Fast**
 #### Ridiculously **Easy**
 #### Amazingly **Powerful**
