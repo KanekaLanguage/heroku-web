@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Homepage Features
 menu: Features
 class: small
@@ -30,4 +30,4 @@ features:
 ---
 
 ## Stuffed full of Amazing Features
-### This is a non-inclusive smattering of them
+### This is a non-inclusive smattering of them -->

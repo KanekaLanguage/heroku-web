@@ -4,6 +4,6 @@ menu: Easy Content
 image_align: right
 ---
 
-## Content Unchained
+## History
 
-No longer are you a _slave to your CMS_. Grav **empowers** you to create anything from a [simple one-page site](#), to a [beautiful blog](#), to a powerful and feature-rich [product site](#), to pretty much anything you can dream up!
+Kaneka was invented and borne into existance by Yush Gupta.  He was a brilliant mind, and deeply compassionate soul who touched many people in sincere and potent ways.  On November 4th 2017 Yush, 29, passed from this world.  We thank you for all of your gifts.  Your legacy lives on in many ways, of which Kaneka is one.
