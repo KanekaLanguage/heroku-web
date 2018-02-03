@@ -31,8 +31,8 @@ pages:
   process:
     markdown: true
     twig: false
-  twig_first: true
-  never_cache_twig: true
+  twig_first: false
+  never_cache_twig: false
   events:
     page: true
     twig: true
@@ -67,7 +67,7 @@ pages:
   ignore_hidden: true
   url_taxonomy_filters: true
   frontmatter:
-    process_twig: true
+    process_twig: false
     ignore_fields:
       - form
       - forms
@@ -84,7 +84,7 @@ cache:
   gzip: false
   allow_webserver_gzip: false
 twig:
-  cache: false
+  cache: true
   debug: true
   auto_reload: true
   autoescape: false
@@ -109,7 +109,7 @@ errors:
   display: '0'
   log: true
 debugger:
-  enabled: true
+  enabled: false
   shutdown:
     close_connection: true
   twig: true
