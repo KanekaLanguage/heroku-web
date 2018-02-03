@@ -10,7 +10,7 @@ features:
       text: "Intended for users of any age, and level of seriousness from child to rocket scientist."
       icon: database
     - header: Modular
-      text: "Grav employees best-in-class technologies such as Twig, Markdown &amp; Yaml"
+      text: "Kaneka is sort of like a 'programming language' for mechanical expression.  Simple modules build up complex outcomes."
       icon: cubes
     - header: Flexible
       text: "From the ground up, the system is meant to be expressive... one day capable of expressing anything at all."
