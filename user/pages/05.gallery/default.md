@@ -1,5 +1,0 @@
----
-title: Gallery
----
-
-Some projects...

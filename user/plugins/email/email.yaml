@@ -1,8 +1,8 @@
 enabled: true
-from:
+from: 
 from_name:
-to:
-to_name:
+to: nathan@haveli.io
+to_name: Nathan Argetsinger
 mailer:
   engine: sendmail
   smtp:
