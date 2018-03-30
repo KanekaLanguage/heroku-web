@@ -1,3 +1,7 @@
 [submodule "user/themes/kaneka"]
 	path = user/themes/kaneka
 	url = https://github.com/nargetdev/kaneka-grav-theme.git
+[submodule "user/plugins/add-page-by-form"]
+	path = user/plugins/add-page-by-form
+	url = https://github.com/bleutzinn/grav-plugin-add-page-by-form
+	branch = upload-fix
