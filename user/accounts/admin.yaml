@@ -1,6 +1,6 @@
-email: a@a.com
-fullname: 'Nate A'
-title: Adminis
+email: narget@umich.edu
+fullname: 'Nathan Argetsinger'
+title: Administrator
 state: enabled
 access:
   admin:
@@ -8,4 +8,4 @@ access:
     super: true
   site:
     login: true
-hashed_password: $2y$10$s3fyPxJtKuI6Qr/1pZPsduNiXRK6VFYiPfs3mZroDIue37Of55GgW
+hashed_password: $2y$10$GrZaKv8n8SwSzhqAaZdShuqTf7OSdGtcsRCIAbEol3O1HGpz8xuGK

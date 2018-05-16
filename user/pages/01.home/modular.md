@@ -13,6 +13,7 @@ content:
             - _highlights
             - _callout
             - _features
+            - _slider
 ---
 
 
